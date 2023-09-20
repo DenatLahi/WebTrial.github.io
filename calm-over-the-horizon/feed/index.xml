@@ -8,15 +8,15 @@
 <channel>
 	<title>
 	Comments on: Calm over the horizon	</title>
-	<atom:link href="http://localhost/calm-over-the-horizon/feed/?simply_static_page=1812" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/calm-over-the-horizon/feed/?simply_static_page=1988" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description></description>
+	<description>test</description>
 	<lastBuildDate>Sat, 25 Mar 2017 11:45:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 	<item>
 		<title>
 		By: Willie Clark		</title>

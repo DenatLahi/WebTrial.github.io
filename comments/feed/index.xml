@@ -7,16 +7,16 @@
 	>
 <channel>
 	<title>
-	Comments for v5 test	</title>
-	<atom:link href="http://localhost/comments/feed/?simply_static_page=1795" rel="self" type="application/rss+xml" />
+	Comments for denatlahi.com	</title>
+	<atom:link href="http://localhost/comments/feed/?simply_static_page=1966" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
-	<description></description>
+	<description>test</description>
 	<lastBuildDate>Sat, 25 Mar 2017 11:45:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 	<item>
 		<title>
 		Comment on Inspired by clouds by Willie Clark		</title>

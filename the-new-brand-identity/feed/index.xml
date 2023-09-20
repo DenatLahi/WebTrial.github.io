@@ -8,15 +8,15 @@
 <channel>
 	<title>
 	Comments on: The new brand identity	</title>
-	<atom:link href="http://localhost/the-new-brand-identity/feed/?simply_static_page=1900" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/the-new-brand-identity/feed/?simply_static_page=2076" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description></description>
+	<description>test</description>
 	<lastBuildDate>Sun, 29 Jan 2017 23:00:27 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 	<item>
 		<title>
 		By: Willie Clark		</title>

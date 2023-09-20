@@ -8,15 +8,15 @@
 <channel>
 	<title>
 	Comments on: Inspired by clouds	</title>
-	<atom:link href="http://localhost/inspired-by-clouds/feed/?simply_static_page=1814" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/inspired-by-clouds/feed/?simply_static_page=1990" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description></description>
+	<description>test</description>
 	<lastBuildDate>Wed, 22 Mar 2017 11:40:29 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 	<item>
 		<title>
 		By: Willie Clark		</title>

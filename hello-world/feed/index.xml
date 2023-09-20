@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="http://localhost/hello-world/feed/?simply_static_page=1810" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/hello-world/feed/?simply_static_page=1986" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description></description>
+	<description>test</description>
 	<lastBuildDate>Fri, 25 Aug 2023 21:22:01 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 </channel>
 </rss>

@@ -8,15 +8,15 @@
 <channel>
 	<title>
 	Comments on: Real time design tools	</title>
-	<atom:link href="http://localhost/real-time-design-tools/feed/?simply_static_page=1820" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/real-time-design-tools/feed/?simply_static_page=1996" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description></description>
+	<description>test</description>
 	<lastBuildDate>Mon, 06 Mar 2017 23:00:02 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 	<item>
 		<title>
 		By: Willie Clark		</title>
