@@ -8,44 +8,16 @@
 <channel>
 	<title>
 	Comments for Denat Lahi Prints	</title>
-	<atom:link href="http://localhost/comments/feed/?simply_static_page=2193" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/comments/feed/?simply_static_page=2650" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description></description>
-	<lastBuildDate>Mon, 25 Sep 2023 20:13:33 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 24 Sep 2023 18:25:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.3.1</generator>
 	<item>
-		<title>
-		Comment on Test1 print by user7		</title>
-		<link>./../../product/test1-print/index.html#comment-9</link>
-
-		<dc:creator><![CDATA[user7]]></dc:creator>
-		<pubDate>Mon, 25 Sep 2023 20:10:15 +0000</pubDate>
-		<guid isPermaLink="false">./../../index.html?post_type=product#038;p=117824#comment-9</guid>
-
-					<description><![CDATA[fucking insane]]></description>
-			<content:encoded><![CDATA[<p>fucking insane</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		Comment on Test1 print by user7		</title>
-		<link>./../../product/test1-print/index.html#comment-8</link>
-
-		<dc:creator><![CDATA[user7]]></dc:creator>
-		<pubDate>Mon, 25 Sep 2023 20:04:55 +0000</pubDate>
-		<guid isPermaLink="false">./../../index.html?post_type=product#038;p=117824#comment-8</guid>
-
-					<description><![CDATA[test]]></description>
-			<content:encoded><![CDATA[<p>test</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
 		<link>./../../hello-world/index.html#comment-1</link>
