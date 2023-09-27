@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Uncategorized &#8211; denatlahi.com</title>
-	<atom:link href="http://localhost/category/uncategorized/feed/?simply_static_page=3480" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/category/uncategorized/feed/?simply_static_page=4004" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
 	<lastBuildDate>Sun, 24 Sep 2023 18:25:50 +0000</lastBuildDate>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/09/cropped-demo-homepage-Blog-Stories-Uncode-32x32.jpg</url>
+	<title>Uncategorized &#8211; denatlahi.com</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>./../../../hello-world/index.html</link>
