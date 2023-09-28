@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Travel &#8211; denatlahi.com</title>
-	<atom:link href="http://localhost/category/travel/feed/?simply_static_page=4006" rel="self" type="application/rss+xml" />
+	<title>Travel &#8211; denat lahi</title>
+	<atom:link href="http://localhost/category/travel/feed/?simply_static_page=4204" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
 	<lastBuildDate>Mon, 07 Jan 2019 23:00:57 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>./../../../wp-content/uploads/2022/09/cropped-demo-homepage-Blog-Stories-Uncode-32x32.jpg</url>
-	<title>Travel &#8211; denatlahi.com</title>
+	<title>Travel &#8211; denat lahi</title>
 	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>

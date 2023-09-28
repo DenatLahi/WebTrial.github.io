@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; denatlahi.com</title>
-	<atom:link href="http://localhost/category/uncategorized/feed/?simply_static_page=4004" rel="self" type="application/rss+xml" />
+	<title>Uncategorized &#8211; denat lahi</title>
+	<atom:link href="http://localhost/category/uncategorized/feed/?simply_static_page=4202" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
 	<lastBuildDate>Sun, 24 Sep 2023 18:25:50 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>./../../../wp-content/uploads/2022/09/cropped-demo-homepage-Blog-Stories-Uncode-32x32.jpg</url>
-	<title>Uncategorized &#8211; denatlahi.com</title>
+	<title>Uncategorized &#8211; denat lahi</title>
 	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
