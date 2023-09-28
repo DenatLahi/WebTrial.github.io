@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments on: Original Layout	</title>
-	<atom:link href="http://localhost/portfolio/original-layout/feed/?simply_static_page=7063" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	Comments on: Portfolio Agency	</title>
+	<atom:link href="http://localhost/portfolio-agency/feed/?simply_static_page=7048" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description></description>
-	<lastBuildDate>Tue, 16 Aug 2022 13:55:35 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jan 2015 16:18:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
