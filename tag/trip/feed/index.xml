@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Trip &#8211; denatlahi.com</title>
-	<atom:link href="http://localhost/tag/trip/feed/?simply_static_page=9043" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/tag/trip/feed/?simply_static_page=9221" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
 	<lastBuildDate>Mon, 07 Jan 2019 23:00:31 +0000</lastBuildDate>
@@ -32,7 +32,7 @@
 		<link>./../../../summer-holiday-guide-how-to-spend-the-best-time-of-the-year/index.html</link>
 					<comments>./../../../summer-holiday-guide-how-to-spend-the-best-time-of-the-year/index.html#respond</comments>
 		
-		<dc:creator><![CDATA[user7]]></dc:creator>
+		<dc:creator><![CDATA[Denat Lahi]]></dc:creator>
 		<pubDate>Mon, 07 Jan 2019 23:00:31 +0000</pubDate>
 				<category><![CDATA[Travel]]></category>
 		<category><![CDATA[Trip]]></category>
