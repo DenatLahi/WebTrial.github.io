@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Simple &#8211; denatlahi.com</title>
-	<atom:link href="http://localhost/tag/simple/feed/?simply_static_page=8667" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/tag/simple/feed/?simply_static_page=8840" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Mon, 07 Jan 2019 23:00:57 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 01 Oct 2023 16:55:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,7 +30,6 @@
 	<item>
 		<title>About the Natural Connections Humans Have with Nature</title>
 		<link>./../../../about-the-natural-connections-humans-have-with-nature/index.html</link>
-					<comments>./../../../about-the-natural-connections-humans-have-with-nature/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[user7]]></dc:creator>
 		<pubDate>Mon, 07 Jan 2019 23:00:57 +0000</pubDate>
@@ -49,8 +48,6 @@
 <p>When you step out of these four walls on a peaceful morning, you realize how much nature has to offer to you. Its boundless. Your thoughts, worries, deadlines won’t resonate here. Everything will flow away along with the wind. And you will realize every answer you had been looking for, was always known to you. It would mean a lot to me if you recommend this article and help me improve.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../about-the-natural-connections-humans-have-with-nature/feed/index.html</wfw:commentRss>
-			<slash:comments>3</slash:comments>
 		
 		
 			</item>
