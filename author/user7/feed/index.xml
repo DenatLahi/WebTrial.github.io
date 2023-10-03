@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Denat Lahi &#8211; denatlahi.com</title>
-	<atom:link href="http://localhost/author/user7/feed/?simply_static_page=10285" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/author/user7/feed/?simply_static_page=10669" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Mon, 02 Oct 2023 18:44:08 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 03 Oct 2023 17:44:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Albania 2023 BTS</title>
+		<link>./../../../albania-2023-bts/index.html</link>
+					<comments>./../../../albania-2023-bts/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Denat Lahi]]></dc:creator>
+		<pubDate>Tue, 03 Oct 2023 17:39:43 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=118989</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../../albania-2023-bts/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>sep 16 &#8211; Heron at sunset</title>
 		<link>./../../../sep-16-heron-at-sunset/index.html</link>
 					<comments>./../../../sep-16-heron-at-sunset/index.html#respond</comments>
@@ -41,24 +59,6 @@
 										<content:encoded><![CDATA[]]></content:encoded>
 					
 					<wfw:commentRss>./../../../sep-16-heron-at-sunset/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Sep 9 sunbathing heron BTS</title>
-		<link>./../../../sep-9-sunbathing-heron-bts/index.html</link>
-					<comments>./../../../sep-9-sunbathing-heron-bts/index.html#respond</comments>
-		
-		<dc:creator><![CDATA[Denat Lahi]]></dc:creator>
-		<pubDate>Mon, 02 Oct 2023 18:43:41 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=118957</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>./../../../sep-9-sunbathing-heron-bts/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -185,24 +185,6 @@
 										<content:encoded><![CDATA[]]></content:encoded>
 					
 					<wfw:commentRss>./../../../wrens-2023-feb-5/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Malaga 2022 monk parakeets BTS</title>
-		<link>./../../../malaga-2022-monk-parakeets-bts/index.html</link>
-					<comments>./../../../malaga-2022-monk-parakeets-bts/index.html#respond</comments>
-		
-		<dc:creator><![CDATA[Denat Lahi]]></dc:creator>
-		<pubDate>Mon, 02 Oct 2023 18:35:27 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=118933</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>./../../../malaga-2022-monk-parakeets-bts/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
