@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Denat Lahi &#8211; denatlahi.com</title>
-	<atom:link href="http://localhost/author/user7/feed/?simply_static_page=11239" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/author/user7/feed/?simply_static_page=11468" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
 	<lastBuildDate>Tue, 03 Oct 2023 17:44:50 +0000</lastBuildDate>
@@ -19,14 +19,6 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.3.1</generator>
-
-<image>
-	<url>./../../../wp-content/uploads/2022/09/cropped-demo-homepage-Blog-Stories-Uncode-32x32.jpg</url>
-	<title>Denat Lahi &#8211; denatlahi.com</title>
-	<link>./../../../index.html</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
 	<item>
 		<title>Albania 2023 BTS</title>
 		<link>./../../../albania-2023-bts/index.html</link>
