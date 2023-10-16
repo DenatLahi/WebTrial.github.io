@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments for denatlahi.com	</title>
-	<atom:link href="http://localhost/comments/feed/?simply_static_page=11988" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/comments/feed/?simply_static_page=12263" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description></description>
-	<lastBuildDate>Sat, 14 Oct 2023 21:35:18 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Oct 2023 22:08:18 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 </channel>
 </rss>
