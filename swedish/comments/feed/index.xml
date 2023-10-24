@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Kommentarer till denatlahi.com	</title>
-	<atom:link href="http://localhost/swedish/comments/feed/?simply_static_page=13759" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/swedish/comments/feed/?simply_static_page=14142" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description></description>
-	<lastbuilddate>Tue, 24 Oct 2023 18:52:22 +0000</lastbuilddate>
+	<lastbuilddate>Tue, 24 Oct 2023 20:41:16 +0000</lastbuilddate>
 	<sy:updateperiod>
 	hourly	</sy:updateperiod>
 	<sy:updatefrequency>
