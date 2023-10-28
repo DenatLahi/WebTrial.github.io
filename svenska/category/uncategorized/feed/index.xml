@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Uncategorized - denatlahi.com</title>
-	<atom:link href="http://localhost/svenska/category/uncategorized/feed/?simply_static_page=16425" rel="self" type="application/rss+xml" />
+	<title>Uncategorized &#8211; denatlahi.com</title>
+	<atom:link href="http://localhost/svenska/category/uncategorized/feed/?simply_static_page=17280" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
 	<lastbuilddate>Sat, 14 Oct 2023 21:33:10 +0000</lastbuilddate>
@@ -19,6 +19,14 @@
 	<sy:updatefrequency>
 	1	</sy:updatefrequency>
 	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>./../../../../wp-content/uploads/2023/10/cropped-cropped-IMG_7157-scaled-1-32x32.jpg</url>
+	<title>Uncategorized &#8211; denatlahi.com</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Albania 2023 BTS</title>
 		<link>./../../../albania-2023-bts/index.html</link>
